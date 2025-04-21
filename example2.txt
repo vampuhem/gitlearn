@@ -1,2 +1,6 @@
 helloexample2.txt
+<<<<<<< HEAD
 hi-dev
+=======
+Hii
+>>>>>>> origin/master
